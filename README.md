@@ -3,10 +3,11 @@ Master of Computer Application 💻
 
 Front-end developer 😍
 
-CSS image split project ✂️
+Insta-Photo split project ✂️
 
 Pune historical places webpage project 🏛️
 
-Passionate about building attractive user interfaces ✨
+NEW ✨
+Just Ads (a kick start to social media marketing agency)
 
 Thanks for reading! 👋
