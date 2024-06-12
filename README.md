@@ -3,11 +3,11 @@ Master of Computer Application 💻
 
 Front-end developer 😍
 
-Insta-Photo split project ✂️
+Just Ads (a kick start to social media marketing agency)
 
-Pune historical places webpage project 🏛️
+Pune Historical Places webpage project 🏛️
 
 NEW ✨
-Just Ads (a kick start to social media marketing agency)
+Next Weather App check it ...
 
 Thanks for reading! 👋
