@@ -1,7 +1,24 @@
 # Hey, Techie
 # Sarthak Gupta Here,
-# 💫 About Me:
-Hello , <br> I'm Sarthak Gupta<br><br>About Me :<br> 🛠️ I’m currently working on:<br>Building awesome front-end projects and enhancing my development skills.<br><br>🤝 I’m looking to collaborate on:<br>Creating a movie list app, as I have a huge fondness for movies.<br><br>💡 I’m looking for help with:<br>Expanding my knowledge and expertise in front-end development and related technologies.<br><br> 🌱 I’m currently learning:<br>New front-end frameworks, advanced JavaScript, and exploring game development.<br><br> 💬 Ask me about:<br>Tech start-ups, tech stacks, Git, and the Linux environment.<br><br> ⚡ Fun fact:<br>I was no one in 2020 and became a developer in 2024. It's not magic but hard work!<br><br>
+## 💫 About Me:
+
+🛠️ **I’m currently working on:**
+Building awesome front-end projects and enhancing my development skills.
+
+🤝 **I’m looking to collaborate on:**
+Creating a movie list app, as I have a huge fondness for movies.
+
+💡 **I’m looking for help with:**
+Expanding my knowledge and expertise in front-end development and related technologies.
+
+🌱 **I’m currently learning:**
+New front-end frameworks, advanced JavaScript, and exploring game development.
+
+💬 **Ask me about:**
+Tech start-ups, tech stacks, Git, and the Linux environment.
+
+⚡ **Fun fact:**
+I was no one in 2020 and became a developer in 2024. It's not magic but hard work!
 
 
 ## 🌐 Socials:
