@@ -22,4 +22,4 @@ Generate QR codes from the command line using Express, Inquirer, and qr-image. [
 
 For any questions or suggestions, feel free to reach out to me at [sarthakguptarjn123@gmail.com](mailto:sarthakguptarjn123@gmail.com).
 
-Thanks for visiting! 👋
+Thanks for visiting!👋
