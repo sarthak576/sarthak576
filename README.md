@@ -1,4 +1,4 @@
-# Hey, Techie 👋
+# Hi, 👋
 # Sarthak Gupta Here,
 ## 💫 About Me:
 
